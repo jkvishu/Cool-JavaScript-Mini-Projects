@@ -16,4 +16,4 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | Notification-App                             | [Click Here](https://jkvishu.github.io/FreeCodeCamp-Projects/Balanced-Sheet/index.html)
+| 01  | Notification-App                             | [Click Here](https://jkvishu.github.io/Cool-JavaScript-Mini-projects/Notification-App/index.html)
